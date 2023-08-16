@@ -8,7 +8,7 @@ This project was to build a Node.js command-line application that generates logo
 ![alt text](node-command.png)
 
 ## Walkthrough Video
-
+https://github.com/jovaldez98/svg-logo-maker/assets/125123860/e17c19cd-47ca-481e-9707-d573a415224b
 ## Installation
 - Jest
 - Inquirer
